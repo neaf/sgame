@@ -1,0 +1,49 @@
+body { widows: 1060px;
+		background-color: #D0D9DB;
+	}
+
+.dark {
+	color: #2C2A38;
+}
+
+.nat-so-dark {
+	color: #444152;
+}
+
+.grey {
+	color: #9491A3;
+}
+
+.white {
+	color: #F2F2F2;
+}
+
+.none {
+	text-decoration: none;
+}
+
+#header {
+	width: 80%;
+	background-color: #2C2A38;
+	margin: 0 auto;
+	height: 80px;
+
+}
+
+#header li {
+	float: left;
+}
+
+#header div {
+	float: left;
+}
+
+#header a {
+	line-height: 80px;
+	
+}
+
+#logo h1 {
+	line-height: 80px;
+}
+
